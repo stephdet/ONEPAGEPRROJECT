@@ -8,7 +8,13 @@
 
 nav ul a,
 nav .brand-logo {
-  color: #444;
+/*   color:#82F4F4;
+ */color:#026A69;
+}
+
+#logo-container {
+  display: block;
+  height: 70px;
 }
 
 p {
@@ -29,6 +35,11 @@ p {
     width: 100%;
   }
 
+
+
+/*MEDIA QUERIES*/
+
+
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
     position: absolute;
@@ -44,6 +55,11 @@ p {
     top: 0;
   }
 }
+
+
+
+
+
 
 .icon-block {
   padding: 0 15px;
