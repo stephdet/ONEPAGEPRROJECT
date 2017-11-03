@@ -2735,7 +2735,7 @@ video.responsive-video {
 .breadcrumb i.material-icons {
   display: inline-block;
   float: left;
-  font-size: 24px;
+  font-size: 28px;
 }
 
 .breadcrumb:before {
@@ -4453,6 +4453,7 @@ nav .input-field label.active i {
 
 a {
   text-decoration: none;
+  font-size: 1.4rem;
 }
 
 html {
@@ -4485,6 +4486,9 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.1;
 }
 
+
+
+
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
   font-weight: inherit;
 }
@@ -4508,13 +4512,13 @@ h3 {
 }
 
 h4 {
-  font-size: 2.28rem;
+  font-size: 2.30rem;
   line-height: 110%;
   margin: 1.14rem 0 0.912rem 0;
 }
 
 h5 {
-  font-size: 1.64rem;
+  font-size:2rem;
   line-height: 110%;
   margin: 0.82rem 0 0.656rem 0;
 }
