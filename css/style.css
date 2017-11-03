@@ -17,13 +17,47 @@ nav .brand-logo {
   height: 70px;
 }
 
+/* Mes modifications*/
+#Real {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.portfolio{
+  height: 400 px;
+  width: 400 px;
+}
+
+.portfolio img{
+max-width: 100%;
+}
+
+.icons{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
 p {
   line-height: 2rem;
 }
 
+
+
+
 .button-collapse {
   color: #26a69a;
 }
+
+
 
 .parallax-container {
   min-height: 380px;
@@ -31,6 +65,11 @@ p {
   height: auto;
   color: rgba(255,255,255,.9);
 }
+
+
+
+
+
   .parallax-container .section {
     width: 100%;
   }
@@ -50,14 +89,14 @@ p {
   }
 }
 
+
+
+
 @media only screen and (max-width : 600px) {
   #index-banner .section {
     top: 0;
   }
 }
-
-
-
 
 
 
