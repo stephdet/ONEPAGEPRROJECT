@@ -93,7 +93,7 @@ p {
 /*MEDIA QUERIES*/
 
 
-@media only screen and (max-width : 992px) {
+@media screen and (max-width : 992px) {
   .parallax-container .section {
     position: absolute;
     top: 40%;
@@ -104,20 +104,17 @@ p {
 }
 
 
-
-
-@media only screen and (max-width : 600px) {
+@media screen and (max-width : 600px) {
   #index-banner .section {
     top: 0;
   }
 }
 
 
-@media only screen and (max-width :480px) {
+@media screen and (max-width :480px) {
 #bigimg {
   max-width: 100%;
   resize: horizontal;
-
 }
 }
 
